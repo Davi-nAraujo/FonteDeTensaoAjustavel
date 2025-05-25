@@ -1,2 +1,2 @@
-# Fonte-de-Tens-o-Ajust-vel
+# Fonte de Tensão Ajustável
 Trabalho 1 de eletrônica
