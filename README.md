@@ -43,12 +43,15 @@ Trabalho 1 de eletrônica
 
 ## Cálculos
 
-(vazio)
+![calculo](https://github.com/user-attachments/assets/24644876-72a1-4545-81ac-5633578a4635)
 
-## Vídeo
+## Foto e Vídeo do Circuito
 
-(vazio)
+![WhatsApp Image 2025-07-01 at 01 35 00](https://github.com/user-attachments/assets/1f8ea21a-e3fe-4de8-b6ce-d500fbe41903)
 
+https://github.com/user-attachments/assets/c70db6a1-dd09-49a1-866d-9a52d798d033
+
+https://github.com/user-attachments/assets/4f30cf11-2924-410c-b015-acd3bf34ff95
 
 ## Integrantes
 
