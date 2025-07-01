@@ -39,7 +39,7 @@ Trabalho 1 de eletrônica
 
 ## Circuito Eagle
 
-(vazio)
+![eaglefoot](https://github.com/user-attachments/assets/cc4734fb-183a-4293-b2c0-0d12fd1b003f)
 
 ## Cálculos
 
